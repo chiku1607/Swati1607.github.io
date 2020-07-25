@@ -63,3 +63,13 @@ body{
 .items #Msg{
     height: 100px;
 }
+
+.alert{
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: white;
+    margin-bottom: 10px;
+    display: none;
+
+}
